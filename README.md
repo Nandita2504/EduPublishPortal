@@ -26,7 +26,7 @@ Before running the project, ensure you have:
 
 #### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/mohithn2004/EduPublishPortal
+git clone https://github.com/Nandita2504/EduPublishPortal
 cd EduPublishPortal
 ```
 
@@ -66,6 +66,6 @@ Get a glimpse of the platform in action!
 We welcome contributions! Feel free to fork the repo, submit pull requests, or report issues.  
 
 ## 📧 Contact  
-Got questions or suggestions? Reach out at **mohithn2004@gmail.com**.  
+Got questions or suggestions? Reach out at **nanditanair2504@gmail.com**.  
 
 Happy researching! 🎓✨  
